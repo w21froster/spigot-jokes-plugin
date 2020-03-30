@@ -10,3 +10,6 @@
 |  Make a command that fetches a joke  |  Not Started |
 | Tell other players jokes with command argument  |  Not Started |
 | Rate limiting for pming players | Not Started |
+
+### Preview
+![alt text](https://raw.githubusercontent.com/w21froster/spigot-jokes-plugin/master/preview.gif)
